@@ -81,15 +81,15 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <img src="https://mail.google.com/mail/u/0/?ui=2&ik=587ae559bf&view=att&th=164f102733fff6ff&attid=0.5&disp=safe&realattid=f_jk9vgqvt4&zw" style="width:100%">
+  <img src="http://washingtonflag.facts.co/FlagofWashingtonDC.jpg" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <img src="https://mail.google.com/mail/u/0/?ui=2&ik=587ae559bf&view=att&th=164f102733fff6ff&attid=0.2&disp=safe&realattid=f_jk9vgdcf1&zw" style="width:100%">
+  <img src="http://www.chocolatecityweb.com/BlogPics/Feb2008/Wings/mumbo1.jpg" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <img src="https://mail.google.com/mail/u/0/?ui=2&ik=587ae559bf&view=att&th=164f102733fff6ff&attid=0.3&disp=safe&realattid=f_jk9vghg12&zw" style="width:100%">
+  <img src="https://www.tripsavvy.com/thmb/If7DQOslS1PgsgagCvm6PGrtwRY=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/capitol-building-170402241-58ddb7bf5f9b58468374c174.jpg" style="width:100%">
 </div>
 
 </div>
